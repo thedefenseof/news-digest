@@ -1,0 +1,17 @@
+# секреты
+.env
+
+# собранные тексты (чужой контент) и результаты запусков
+data/
+output/
+
+# личные заметки
+notes/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ruff_cache/
+.ipynb_checkpoints/
